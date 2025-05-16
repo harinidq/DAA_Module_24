@@ -15,12 +15,11 @@ To write a python program using brute force method of searching for the given su
 5.If no match is found after checking all valid positions, return -1.
 ## Program:
 ```
-/*
 To implement the program using brute force method of searching for the given substring in the main string.
 
 Developed by: HARINI M D
 Register Number:212222230043
-*/
+
 ```
 ```
 import re
