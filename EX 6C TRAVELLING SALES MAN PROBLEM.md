@@ -16,10 +16,10 @@ To Solve Travelling Sales man Problem for the following graph.
 
 ## Program:
 ```
-/*
+
 Developed by: HARINI M D
 Register Number: 212222230043
-*/
+
 ```
 ```
 from sys import maxsize
