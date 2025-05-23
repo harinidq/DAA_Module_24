@@ -23,7 +23,7 @@ When passing through a path cell containing a cherry, you pick it up, and the ce
 
 ## Program:
 ```
-/*
+
 To implement the program for Cherry pickup problem.
 
 
@@ -58,7 +58,7 @@ class Solution:
 obj=Solution()
 grid=[[0,1,-1],[1,0,-1],[1,1,1]]        
 print(obj.cherryPickup(grid))
-*/
+
 ```
 
 ## Output:
