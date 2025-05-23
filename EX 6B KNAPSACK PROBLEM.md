@@ -11,10 +11,10 @@ To demonstrate a python program using dynamic programming for 0/1 knapsack probl
 
 ## Program:
 ```
-/*
+
 Developed by: HARINI M D
 Register Number: 212222230043
-*/
+
 ```
 ```
 def knapSack(W, wt, val, n):
